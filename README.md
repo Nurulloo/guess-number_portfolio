@@ -23,6 +23,10 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+## Acknowledgments
+
+- Inspired by Jonas Schmedtmann.
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
